@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(236, 185, 16)
+}
+#figure-id picture{
+    background-position: url(https://5.imimg.com/data5/UX/VL/MY-35950592/beam-balancing-scale-250x250.jpg)
+left center no-repeat, url(https://i.pinimg.com/236x/45/db/ab/45dbab3eab525c6452a993e073326cf5--unusual-animal-friends-unlikely-animal-friends.jpg)
+right center no-repeat;
+}
+body{
+    font-family: cursive;
+    text-align: center;
+    font-size: 25px;
+}
+.hidden {
+    display: none;
+}
