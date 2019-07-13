@@ -12,5 +12,5 @@ body{
     font-size: 25px;
 }
 .hidden {
-    display: none;
+    visibility: hidden;
 }
